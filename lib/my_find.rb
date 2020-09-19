@@ -7,5 +7,5 @@ def my_find(collection)
     #code
     counter += 1
   end
-  collection
+  new_collection
 end
