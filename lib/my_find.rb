@@ -6,5 +6,4 @@ def my_find(collection)
     return collection[counter] if yield(collection[counter])
     counter += 1
   end
-  collection
 end
